@@ -1,6 +1,6 @@
 Package: bigrf
-Version: 0.1-4
-Date: 2013-03-05
+Version: 0.1-5
+Date: 2013-04-11
 Title: Big Random Forests: Classification and Regression Forests for
         Large Data Sets
 Authors@R: c(person("Aloysius", "Lim", role = c("aut", "cre"),
@@ -9,9 +9,9 @@ Authors@R: c(person("Aloysius", "Lim", role = c("aut", "cre"),
 Author: Aloysius Lim, Leo Breiman, Adele Cutler
 Maintainer: Aloysius Lim <aloysius.lim@gmail.com>
 OS_type: unix
-Depends: R (>= 2.14), methods, bigmemory
+Depends: R (>= 2.14), methods, bigmemory, BH
 Imports: foreach
-LinkingTo: bigmemory
+LinkingTo: bigmemory, BH
 Suggests: MASS, doParallel
 Enhances: bigmemory
 Description: This is an implementation of Leo Breiman's and Adele
@@ -34,7 +34,7 @@ License: GPL-3
 Copyright: 2013 Aloysius Lim
 URL: https://github.com/aloysius-lim/bigrf
 BugReports: https://github.com/aloysius-lim/bigrf/issues
-Packaged: 2013-03-09 09:56:31 UTC; ripley
+Packaged: 2013-04-12 12:58:59 UTC; aloysius
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2013-03-09 10:58:57
+Date/Publication: 2013-04-12 18:04:00
