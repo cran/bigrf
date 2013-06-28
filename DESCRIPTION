@@ -1,6 +1,6 @@
 Package: bigrf
-Version: 0.1-5
-Date: 2013-04-11
+Version: 0.1-6
+Date: 2013-06-28
 Title: Big Random Forests: Classification and Regression Forests for
         Large Data Sets
 Authors@R: c(person("Aloysius", "Lim", role = c("aut", "cre"),
@@ -34,7 +34,7 @@ License: GPL-3
 Copyright: 2013 Aloysius Lim
 URL: https://github.com/aloysius-lim/bigrf
 BugReports: https://github.com/aloysius-lim/bigrf/issues
-Packaged: 2013-04-12 12:58:59 UTC; aloysius
+Packaged: 2013-06-28 15:31:43 UTC; aloysius
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2013-04-12 18:04:00
+Date/Publication: 2013-06-29 06:16:29

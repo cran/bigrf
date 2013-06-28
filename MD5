@@ -1,7 +1,7 @@
-aa113902e96d11a6386c1d64529d378b *DESCRIPTION
+ce163e81a5dcb15527e66eb7bf917ac8 *DESCRIPTION
 eafe0ecb79207c7e0a784adfa4853163 *INSTALL-WINDOWS
 43f5eca2fdfc185bdc3770e2facdf381 *NAMESPACE
-f78995d013f362d9519d3647a83fe24e *NEWS
+76bc389158898ce418f56320f502af22 *NEWS
 399ba0346f4aab133f28f1bcc47d8f81 *R/bigrfc.R
 f209d0e354ba45e4302db310e6daca85 *R/bigrfc.helpers.R
 b86bd204ae43cab8768dcd4241f92324 *R/classes.R
@@ -22,7 +22,7 @@ cc19474a037f83ed8a69c2cd8a8209cf *R/varimp.R
 edb24ab93e72c8ba8b79e3bc083b20e8 *man/bigcforest-class.Rd
 6abc782598a68aca34d23863d0d89dd0 *man/bigcprediction.class.Rd
 e49ab0f0122f9d16d8e08c0d66bf0abb *man/bigctree-class.Rd
-d68447cf5b218513c9f2f38e08708380 *man/bigrf-package.Rd
+a2c9b90ba41add7a90514e57217194ef *man/bigrf-package.Rd
 04f35d5e1661544c3efc9b8be0a3449a *man/bigrfc.Rd
 806ae670bf1507cfea7ab34b761fdf8f *man/bigrfprox-class.Rd
 66b581965679adaa81bde56ab466a20a *man/fastimp-methods.Rd
@@ -36,8 +36,8 @@ a354e1afed0893ba2468751362e627cf *man/outliers-methods.Rd
 f8073bce5b2eaa3c139d9af5f6fadb5d *man/proximities-methods.Rd
 1d93216fc14ab6004a82ffc275e2d26e *man/scaling-methods.Rd
 3e51cd246bd06328c9fda871ea00d8a0 *man/varimp-methods.Rd
-6f4a173d71bafdd8fed5ee433229aaa5 *src/bigrfc.h
-f9f3fe20a96ac47a8770544104af9486 *src/growtree.cpp
+1420d838a58dd823a81a7a4008880ca0 *src/bigrfc.h
+3d44d1423b7904eb559ef6e510d527d3 *src/growtree.cpp
 9c0f47d00d8a43bbdadb9a287e1e088c *src/moda.cpp
 223be6b2c44aad462842a4c3ead6162c *src/treepredict.cpp
 6ff7c5c7212d7753900493d3d51ce451 *src/treepredictimp.cpp
