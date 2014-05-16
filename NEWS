@@ -4,6 +4,45 @@ For a detailed list of changes, see git commit history at
 https://github.com/aloysius-lim/bigrf.
 
 
+Changes in version 0.1-11 (16th May 2014)
+
+Package updates:
+
+  * Removed BH package as an Imports dependency; it is now only in LinkingTo.
+
+
+Changes in version 0.1-10 (14th May 2014)
+
+Improvements:
+
+  * grow() and predict() methods now print the summary at the end only if
+    trace >= 1.
+
+
+Changes in version 0.1-9 (20th February 2014)
+
+Package updates:
+
+  * Reduced number of trees used in examples, to reduce running time.
+
+  * Removed outdated information from DESCRIPTION file.
+
+
+Changes in version 0.1-8 (21st September 2013)
+
+Package updates:
+
+  * DESCRIPTION file updates to comply with package submission requirements.
+
+  * Removed INSTALL-WINDOWS.
+
+
+Changes in version 0.1-7 (20th September 2013)
+
+Package updates:
+
+  * Added README.md (used on github only) to .Rbuildignore.
+
 
 Changes in version 0.1-6 (28th June 2013)
 
